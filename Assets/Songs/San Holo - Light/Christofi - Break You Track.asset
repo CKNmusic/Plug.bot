@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1223223985, guid: aa81bbec85a3f423193272a7c6154986, type: 3}
+  m_Name: Christofi - Break You Track
+  m_EditorClassIdentifier: 
+  mEventID: jumpToBeat
+  mEventList:
+  - mStartSample: 0
+    mEndSample: 0
+  - mStartSample: 31500
+    mEndSample: 31500
+  - mStartSample: 63000
+    mEndSample: 63000
+  - mStartSample: 121690
+    mEndSample: 121690
+  - mStartSample: 126000
+    mEndSample: 126000
+  - mStartSample: 157500
+    mEndSample: 157500
+  - mStartSample: 189000
+    mEndSample: 189000
+  - mStartSample: 220500
+    mEndSample: 220500
+  - mStartSample: 252000
+    mEndSample: 252000
+  - mStartSample: 283500
+    mEndSample: 283500
+  - mStartSample: 315000
+    mEndSample: 315000
+  - mStartSample: 373690
+    mEndSample: 373690
+  - mStartSample: 378000
+    mEndSample: 378000
+  - mStartSample: 409500
+    mEndSample: 409500
+  - mStartSample: 441000
+    mEndSample: 441000
+  - mStartSample: 472500
+    mEndSample: 472500
+  - mStartSample: 504000
+    mEndSample: 504000
+  - mStartSample: 567000
+    mEndSample: 567000
+  - mStartSample: 630000
+    mEndSample: 630000
+  - mStartSample: 693000
+    mEndSample: 693000
+  - mStartSample: 724500
+    mEndSample: 724500
+  - mStartSample: 756000
+    mEndSample: 756000
+  - mStartSample: 819000
+    mEndSample: 819000
+  - mStartSample: 882000
+    mEndSample: 882000
+  - mStartSample: 945000
+    mEndSample: 945000
+  - mStartSample: 976500
+    mEndSample: 976500
+  _SerializedPayloadTypes: []
+  _ColorPayloads: []
+  _ColorPayloadIdxs: 
+  _CurvePayloads: []
+  _CurvePayloadIdxs: 
+  _FloatPayloads: []
+  _FloatPayloadIdxs: 
+  _GradientPayloads: []
+  _GradientPayloadIdxs: 
+  _IntPayloads: []
+  _IntPayloadIdxs: 
+  _SpectrumPayloads: []
+  _SpectrumPayloadIdxs: 
+  _TextPayloads: []
+  _TextPayloadIdxs: 

@@ -13,6 +13,8 @@ public class movePlayer : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+        var x = Input.GetAxis("Horizontal");
+        var y = Input.GetAxis("Vertical");
+        transform.Translate(2 * -y * Time.deltaTime ,0, 2 * x * Time.deltaTime);
     }
 }
