@@ -1,5 +1,7 @@
-# Plug.bot
+# Plug.bot 
+######v0.0.1
 Reimaginação em 3D do falecido site Plug.DJ
+
 
 Chame seus amigos e crie salas com até 5 pessoas.
 Vocês podem ouvir musicas enquanto *batem papo no chat de voz ou de texto*
